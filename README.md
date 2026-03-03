@@ -43,3 +43,6 @@ class Solution {
         return binarySearch(nums, target, 0, nums.length - 1);
     }
 }
+
+Author
+Sanjeev Sharma
